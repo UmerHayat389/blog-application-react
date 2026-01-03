@@ -1,4 +1,4 @@
-// src/pages/Category.jsx
+
 
 import { useParams } from 'react-router-dom'
 import BlogCard from '../components/blog/BlogCard'

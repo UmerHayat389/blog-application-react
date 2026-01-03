@@ -1,5 +1,3 @@
-// src/data/categories.js
-
 export const categories = [
   {
     name: 'Web Development',

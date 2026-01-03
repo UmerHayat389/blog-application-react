@@ -1,5 +1,3 @@
-// src/data/blogs.js
-
 export const blogs = [
   {
     id: '1',

@@ -1,5 +1,3 @@
-// src/pages/NotFound.jsx
-
 import Container from '../components/ui/Container'
 
 export default function NotFound() {
